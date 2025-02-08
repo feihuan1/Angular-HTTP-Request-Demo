@@ -11,4 +11,4 @@ npm i
 ng serve
 ```
 
-## go to (http://localhost:4200/)
+## go to http://localhost:4200/
